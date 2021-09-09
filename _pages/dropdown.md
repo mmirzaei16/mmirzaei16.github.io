@@ -2,11 +2,11 @@
 layout: page
 title: lifestyle
 nav: true
-dropdown: true
+<!-- dropdown: true
 children: 
     - title: publications
       permalink: /publications/
     - title: divider
     - title: projects
-      permalink: /projects/
+      permalink: /projects/ -->
 ---
