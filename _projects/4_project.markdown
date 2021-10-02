@@ -3,8 +3,8 @@ layout: page
 title: project 4
 description: another without an image
 img:
-importance: 3
-category: work
+importance: 4
+category: .
 ---
 
 Every project has a beautiful feature showcase page.
