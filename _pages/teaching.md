@@ -6,7 +6,7 @@ description: A quick look at my life
 nav: true
 ---
 
- <b>teaching</b>
+ <h2>teaching</h2>
  For now, this page is assumed to be a static description of your courses. 
 
 </div>
@@ -16,7 +16,7 @@ nav: true
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Caption photos easily
 </div>
 
 </div>
@@ -26,12 +26,12 @@ nav: true
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Caption photos easily
 </div>
 
 
 
- <b>Mountaineering</b>
+ <h2>Mountaineering</h2>
  To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
 <div class="row">
@@ -46,12 +46,12 @@ nav: true
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Caption photos easily
 </div>
 
 
 
- <b>Music</b>
+ <h2>Music</h2>
  To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
 
@@ -64,6 +64,6 @@ nav: true
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Caption photos easily
 </div>
 
