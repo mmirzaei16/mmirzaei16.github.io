@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /Life/
-title: teaching
+title: Life
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
 ---
