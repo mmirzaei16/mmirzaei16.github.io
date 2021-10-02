@@ -1,6 +1,6 @@
 ---
 layout: page
-title: lifestyle
+title: life
 nav: true
 <!-- dropdown: true
 children: 
