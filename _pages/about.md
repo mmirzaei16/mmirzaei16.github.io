@@ -6,7 +6,7 @@ description: Robotics Engineer
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: pic.JPG
   address: >
     <p>Tehran, Iran</p>
     <p>+989193807827</p>
