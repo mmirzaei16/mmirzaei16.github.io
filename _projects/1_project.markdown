@@ -31,13 +31,13 @@ The shaped surface of the robot with help of my friend was designed by REVIT sof
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/andrew_4.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/andrew_4.JPG' | relative_url }}" alt="" title="example image"/>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/andrew_3.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/andrew_3.JPG' | relative_url }}" alt="" title="example image"/>
     </div>
 <!--     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/andrew_4.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/andrew_4.JPG' | relative_url }}" alt="" title="example image"/>
     </div> -->
 </div>
 <!-- <div class="caption">
@@ -45,7 +45,7 @@ The shaped surface of the robot with help of my friend was designed by REVIT sof
 </div> -->
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/andrew_2.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/andrew_2.JPG' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
@@ -57,7 +57,7 @@ The arm consists of 3 revolute joints & 1 prismatic joint , which revolute joint
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/andrew_5.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/andrew_5.JPG' | relative_url }}" alt="" title="example image"/>
     </div>
 <!--     <div class="col-sm-4 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/11.jpg' | relative_url }}" alt="" title="example image"/>
@@ -69,29 +69,29 @@ The arm consists of 3 revolute joints & 1 prismatic joint , which revolute joint
 Several important simulations by ANSYS can also be seen.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/andrew_6.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/andrew_6.JPG' | relative_url }}" alt="" title="example image"/>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/andrew_7.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/andrew_7.JPG' | relative_url }}" alt="" title="example image"/>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/andrew_8.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/andrew_8.JPG' | relative_url }}" alt="" title="example image"/>
     </div> 
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/andrew_9.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/andrew_9.JPG' | relative_url }}" alt="" title="example image"/>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/andrew_10.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/andrew_10.JPG' | relative_url }}" alt="" title="example image"/>
     </div>
 <!--     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/andrew_4.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/andrew_4.JPG' | relative_url }}" alt="" title="example image"/>
     </div> -->
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/andrew_11.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/andrew_11.JPG' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
@@ -104,13 +104,13 @@ The mainboard with an STM 32 microcontroller was designed to perform movements &
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/andrew_12.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/andrew_12.JPG' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/andrew_13.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/andrew_13.JPG' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 
