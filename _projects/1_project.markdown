@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Biomedical Robot
+title: <h3>Biomedical Robot</h3>
 description:
 img: /assets/img/andrew_1.JPG
 importance: 1
