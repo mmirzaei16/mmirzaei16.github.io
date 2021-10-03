@@ -102,7 +102,16 @@ I designed the device by solid works with sheet metal approach.
 <br>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/uv_1.JPG' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/uv_15.JPG' | relative_url }}""/>
+    </div>
+</div>
+<figcaption style="font-size:12px;">Render by Keyshot</figcaption>
+
+<br>
+<br>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/uv_1.JPG' | relative_url }}" />
     </div>
 </div>
 <figcaption style="font-size:12px;">Final</figcaption>
