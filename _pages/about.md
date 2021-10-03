@@ -22,7 +22,7 @@ Hello there! I’m Mohammad, a mechatronic engineer with more than 3 years of pr
 
 
 
-C.V Download
+C.V Download:
 
 <a href="/assets/pdf/C.V.pdf" download>
   <img src="/assets/img/c.v_pic.JPG" alt="C.V" width="20" height="29">
