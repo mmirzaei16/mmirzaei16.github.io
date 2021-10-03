@@ -96,3 +96,20 @@ RS485.
 
 <br>
 <br>
+<h3>Rescue Robot</h3>
+<br>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/rescue_1.JPG' | relative_url }}" style="width:70%" />
+    </div>
+</div>
+ <br>            
+ <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/rescue_2.jpg' | relative_url }}" style="width:70%" />
+    </div>
+</div>
+ <br>          
+ <figcaption style="font-size:12px;">my duties as head designer included designing robot and managing other members of IRSE team</figcaption>
+<br>
+<br>
