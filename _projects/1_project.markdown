@@ -46,7 +46,7 @@ The shaped surface of the robot with help of my friend was designed by REVIT sof
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/andrew_2.JPG' | relative_url }}" alt="" title="example image"/>
     </div>
 </div> -->
-<div class="caption">
+<div class="caption" style="font-size:12px;>
    Robot without painting & polishing
 </div>
 <br>
@@ -92,6 +92,7 @@ FEM Analysis
 <br>
 <figure>
   <img src="/assets/img/andrew_11.JPG"  style="width:40%">
+  <br>                                                       
   <figcaption style="font-size:12px;">Gripper consists of two dynamixel motors and a PS3 camera to identify samples tube</figcaption>
 </figure>
 <br>
@@ -115,6 +116,7 @@ The mainboard with an STM 32 microcontroller was designed to perform movements &
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/andrew_13.JPG' | relative_url }}" style="width:50%" />
     </div>
 </div>
+ <br>                                                                                                                      
  <figcaption style="font-size:12px;">Final</figcaption>
 
 
