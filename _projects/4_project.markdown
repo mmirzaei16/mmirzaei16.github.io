@@ -3,7 +3,7 @@ layout: page
 title: <h3>FSI Analysis of Plane’s Composite Wing </h3>
 description: 
 img: /assets/img/fsi_5.JPG
-importance: 1
+importance: 3
 category: .
 ---
 
