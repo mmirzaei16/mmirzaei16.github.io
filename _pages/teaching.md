@@ -11,7 +11,7 @@ nav: true
  
  
  <figure>
-  <img src="/assets/img/21.jpg" alt="Trulli" style="width:100%">
+  <img src="/assets/img/21.jpg" alt="Trulli" style="width:50">
   <figcaption>Teaching designing by Solid Works software at Azad, South Tehran Branch university</figcaption>
 </figure>
 <!--  <div class="row"> 
