@@ -93,6 +93,6 @@ Because of some problems in our team we couldn’t complete manufacturing.
 <div class="col-sm-8 mt-3 mt-md-0">
     <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/rov_8.JPG' | relative_url }}" />
 </div>
-<div class="caption" style="font-size:12px;">
-Render of ROV robot
-</div> 
+<br>
+<figcaption style="font-size:12px;">Render of ROV robot</figcaption>
+
