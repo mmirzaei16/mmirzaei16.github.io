@@ -46,13 +46,7 @@ Simulation was performed By ANSYS fluent and transient structural.
  <br>                                                                                                                   
  <figcaption style="font-size:12px;">ANSYS Workbench</figcaption>
 
-<!-- 
-<div class="col-sm-8 mt-3 mt-md-0">
-    <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/fsi_3' | relative_url }}" alt="" title="example image"/>
-</div>
-<div class="caption">
-    Render of ROV robot
-</div>  -->
+
 <br>
 <br>
 <div class="row">
@@ -64,13 +58,7 @@ Simulation was performed By ANSYS fluent and transient structural.
  <figcaption style="font-size:12px;">ANSYS Fluent analysis</figcaption>
  <br>
  <br>  
-<!-- <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/fsi_4.JPG' | relative_url }}" alt="" title="example image"/>
-    </div>
-<div class="caption">
-    Render of ROV robot
-</div>  -->
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -80,12 +68,4 @@ Simulation was performed By ANSYS fluent and transient structural.
  <br>                                                                                                                   
  <figcaption style="font-size:12px;">Total deformation</figcaption>
 
-<!-- <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/fsi_5.JPG' | relative_url }}" alt="" title="example image"/>
-    </div>
-<div class="caption">
-    Render of ROV robot
-</div> 
- -->
 
