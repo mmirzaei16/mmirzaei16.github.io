@@ -2,7 +2,7 @@
 layout: page
 title: Biomedical Robot
 description:
-img: /assets/img/andrew_1.jpg
+img: /assets/img/andrew_1.JPG
 importance: 1
 category: . 
 ---
