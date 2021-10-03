@@ -9,10 +9,11 @@ nav: true
  <h3>teaching</h3>
 <!--  For now, this page is assumed to be a static description of your courses.  -->
  
- 
- <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/21.jpg' | relative_url }}" alt="  width="500" height="360"/>
- </div>
+ <div class="row">
+     <div class="col-sm-8 mt-3 mt-md-0">
+         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/21.jpg' | relative_url }}" alt="  width="500" height="360"/>
+     </div>
+ </div>                                                                                                                                
  <figcaption>Teaching designing by Solid Works software at Azad, South Tehran Branch university</figcaption>
                                                                                                                                 
                                                                                                                                 
@@ -20,11 +21,12 @@ nav: true
   <img src="/assets/img/21.jpg" alt="Trulli" width="500" height="360">
   <figcaption>Teaching designing by Solid Works software at Azad, South Tehran Branch university</figcaption>
 </figure> -->
-
-<div class="col-sm-8 mt-3 mt-md-0">
+<div class="row">
+    <div class="col-sm-8 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/22.jpg' | relative_url }}" alt="  width="500" height="360"/>
- </div>
- <figcaption>Teaching designing by Solid Works software at Azad, South Tehran Branch university</figcaption>
+    </div>
+</div>
+<figcaption>Teaching designing by Solid Works software at Azad, South Tehran Branch university</figcaption>
 
 
 <!-- <figure>
@@ -41,10 +43,10 @@ nav: true
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/23.jpg' | relative_url }}" alt=" width="250" height="180"/>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/24.jpg' | relative_url }}" alt=" width="250" height="185"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/24.JPG' | relative_url }}" alt=" width="250" height="185"/>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/25.jpg' | relative_url }}" alt=" width="250" height="185"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/25.png' | relative_url }}" alt=" width="250" height="185"/>
     </div>
 </div>
 
