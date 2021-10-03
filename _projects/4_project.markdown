@@ -2,7 +2,7 @@
 layout: page
 title: FSI Analysis of Plane’s Composite Wing
 description: 
-img: /assets/img/fsi_5.JPG
+img: /assets/img/fsi_8.JPG
 importance: 2
 category: .
 ---
@@ -65,7 +65,20 @@ Simulation was performed By ANSYS fluent and transient structural.
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/fsi_5.JPG' | relative_url }}"  />
     </div>
 </div>
- <br>                                                                                                                   
- <figcaption style="font-size:12px;">Total deformation</figcaption>
+ <br> 
+ <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/fsi_7.JPG' | relative_url }}"  />
+    </div>
+</div>
+ <br>
+ <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/fsi_8.JPG' | relative_url }}"  />
+    </div>
+</div>
+ <br>                                                             
+ 
+ 
 
 
