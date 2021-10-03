@@ -54,6 +54,7 @@ nav: true
  
 <br>
 One of my hobbies is hiking and mountaineering
+<br>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/23.jpg' | relative_url }}" width="220" height="150"  />
