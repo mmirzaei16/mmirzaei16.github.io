@@ -56,7 +56,7 @@ The arm consists of 3 revolute joints & 1 prismatic joint , which revolute joint
 </p>
 <br>
 <figure>
-  <img src="/assets/img/andrew_5.JPG" alt="Trulli" style="width:50%">
+  <img src="/assets/img/andrew_5.JPG" alt="Trulli" style="width:35%">
 </figure>
 
 <!-- <div class="row justify-content-sm-center">
@@ -87,11 +87,11 @@ Several important simulations by ANSYS can also be seen.
     </div>
 </div>
 <div class="caption" style="font-size:12px;">
-    FEM Analysis
+FEM Analysis
 </div>
 <br>
 <figure>
-  <img src="/assets/img/andrew_11.jpg" alt="Trulli" style="width:50%">
+  <img src="/assets/img/andrew_11.jpg"  style="width:40%">
   <figcaption style="font-size:12px;">Gripper consists of two dynamixel motors and a PS3 camera to identify samples tube</figcaption>
 </figure>
 <br>
@@ -116,7 +116,6 @@ The mainboard with an STM 32 microcontroller was designed to perform movements &
     </div>
 </div>
  <figcaption style="font-size:12px;">Final</figcaption>
-</figure>
 
 
 
