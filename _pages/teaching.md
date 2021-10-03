@@ -16,9 +16,11 @@ nav: true
          <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/21.jpg' | relative_url }}"  width="500" height="360"/>
      </div>
  </div>                                                                                                                                
- <figcaption style="font-size:10px;">Teaching designing by Solid Works software at Azad, South Tehran Branch university</figcaption>
+ <figcaption style="font-size:10px;">Teaching designing by Solid Works software at Azad, South Tehran Branch university
  <br>
  <br>
+</figcaption>
+
                                                                                                                                 
        
        
