@@ -34,10 +34,12 @@ nav: true
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/22.jpg' | relative_url }}"   width="500" height="360"/>
     </div>
 </div>
-<figcaption>Teaching designing by Solid Works software at Azad, South Tehran Branch university</figcaption>
+<figcaption style="font-size:10px;">Teaching as a Robotic teacher in Darvaze_ghar Iranian home
+<br>
+<br>
+<br>
+</figcaption>
 
-<br>
-<br>
 
 
 
@@ -49,16 +51,18 @@ nav: true
 
 
  <h3>Mountaineering</h3>
+ 
 <br>
+One of my hobbies is hiking and mountaineering
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/23.jpg' | relative_url }}"  />
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/23.jpg' | relative_url }}" width="220" height="150"  />
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/24.JPG' | relative_url }}"  />
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/24.JPG' | relative_url }}" width="220" height="150"  />
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/25.jpg' | relative_url }}"  />
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/25.jpg' | relative_url }}" width="220" height="150" />
     </div>
 </div>
 
@@ -69,7 +73,7 @@ nav: true
 
 
  <h3>Music</h3>
- To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+ i'm a musicion who played SETAR (it's my professional instrument) & guitar & etc.
 <br>
 
 <div class="row justify-content-sm-center">
