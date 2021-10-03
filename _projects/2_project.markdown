@@ -91,13 +91,13 @@ I designed the device by solid works with sheet metal approach.
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/uv_11.JPG' | relative_url }}" width="150" height="270"/>
     </div>
-</div>
-
-<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/uv_12.JPG' | relative_url }}" width="150" height="270"/>
     </div>
 </div>
+<div class="caption">
+   Manufacturing process
+</div> 
 <br>
 <br>
 <div class="row">
