@@ -91,7 +91,7 @@ FEM Analysis
 </div>
 <br>
 <figure>
-  <img src="/assets/img/andrew_11.jpg"  style="width:40%">
+  <img src="/assets/img/andrew_11.JPG"  style="width:40%">
   <figcaption style="font-size:12px;">Gripper consists of two dynamixel motors and a PS3 camera to identify samples tube</figcaption>
 </figure>
 <br>
