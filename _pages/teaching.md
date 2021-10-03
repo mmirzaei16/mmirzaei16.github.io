@@ -11,7 +11,7 @@ nav: true
  
  <div class="row">
      <div class="col-sm-8 mt-3 mt-md-0">
-         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/21.jpg' | relative_url }}" alt="  width="500" height="360"/>
+         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/21.jpg' | relative_url }}"  width="500" height="360"/>
      </div>
  </div>                                                                                                                                
  <figcaption>Teaching designing by Solid Works software at Azad, South Tehran Branch university</figcaption>
@@ -23,7 +23,7 @@ nav: true
 </figure> -->
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/22.jpg' | relative_url }}" alt="  width="500" height="360"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/22.jpg' | relative_url }}"   width="500" height="360"/>
     </div>
 </div>
 <figcaption>Teaching designing by Solid Works software at Azad, South Tehran Branch university</figcaption>
@@ -40,13 +40,13 @@ nav: true
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/23.jpg' | relative_url }}" alt=" width="250" height="180"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/23.jpg' | relative_url }}"  />
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/24.JPG' | relative_url }}" alt=" width="250" height="185"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/24.JPG' | relative_url }}"  />
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/25.png' | relative_url }}" alt=" width="250" height="185"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/25.png' | relative_url }}"  />
     </div>
 </div>
 
@@ -61,10 +61,10 @@ nav: true
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/26.jpg' | relative_url }}" alt="/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/26.jpg' | relative_url }}" />
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/27.jpg' | relative_url }}" alt="/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/27.jpg' | relative_url }}" />
     </div>
 </div>
 <div class="caption">
