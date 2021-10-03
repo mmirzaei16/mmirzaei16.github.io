@@ -1,6 +1,6 @@
 ---
 layout: page
-title:<h3> Smart UV-C Sterilizing Disinfection device </h3>
+title: Smart UV-C Sterilizing Disinfection device 
 description: 
 img: /assets/img/uv_1.JPG
 importance: 2
