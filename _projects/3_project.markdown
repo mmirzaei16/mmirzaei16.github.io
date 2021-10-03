@@ -34,7 +34,7 @@ Simplified ROV analysis by ANSYS Fluent
 </div>
 <br>
 <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/rov_3.JPG' | relative_url }}" style="width:60%"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/rov_3.JPG' | relative_url }}" style="width:80%"/>
 </div> 
 <div class="caption" style="font-size:12px;">
 Horizontal section of the ROV robot in Solid Works
@@ -49,17 +49,17 @@ By gaining drag force we could choose motors & perceiving what will be propeller
 <br>
 <br>
 <div class="col-sm-8 mt-3 mt-md-0">
-    <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/rov_4.JPG' | relative_url }}" style="width:60%"/>
+    <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/rov_4.JPG' | relative_url }}" style="width:80%"/>
 </div>
-
+<br>
 <figcaption style="font-size:12px;">Propeller analysis in ANSYS Fluent</figcaption>
-
+<br>
 <br>
 
 <div class="col-sm-8 mt-3 mt-md-0">
-    <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/rov_5.JPG' | relative_url }}" style="width:60%"/>
+    <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/rov_5.JPG' | relative_url }}" style="width:80%"/>
 </div>
-
+<br>
 <figcaption style="font-size:12px;">Thruster design in Solid works</figcaption>
 <br>
 <br>
@@ -71,6 +71,8 @@ Also, I studied something about the control and linearization of kinematic equat
 The mainboard of the robot is composed of network IC, RJ45, SD card connector, micro USB connector, 3.3V regulator for STM 32 microcontroller, IMU pin header, mini pc (ODROID for image processing under water), and so on.
 </p>
 I just spent a little time on electronics.
+<br>
+<br>
 <br>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -85,6 +87,8 @@ Mainboard PCB & 3D format in Altium
 </div>
 <br>
 Because of some problems in our team we couldn’t complete manufacturing.
+<br>
+<br>
 <br>
 <div class="col-sm-8 mt-3 mt-md-0">
     <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/rov_8.JPG' | relative_url }}" />
