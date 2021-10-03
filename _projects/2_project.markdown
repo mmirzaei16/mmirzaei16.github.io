@@ -28,7 +28,7 @@ You can see schematics and PCBs below.
 <br>
 
 <figure>
-  <img src="/assets/img/uv_2.JPG"  style="width:40%">
+  <img src="/assets/img/uv_2.JPG"  style="width:70%">
   <br>                                                       
   <figcaption style="font-size:12px;">Schematic process of the device</figcaption>
 </figure>
@@ -86,13 +86,13 @@ I designed the device by solid works with sheet metal approach.
 </div> 
 <br>
 
-</div>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/uv_11.JPG' | relative_url }}" width="150" height="270"/>
     </div>
 </div>
-</div>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/uv_12.JPG' | relative_url }}" width="150" height="270"/>
