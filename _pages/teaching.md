@@ -7,13 +7,13 @@ nav: true
 ---
 
  <h4>teaching</h4>
- For now, this page is assumed to be a static description of your courses. 
+<!--  For now, this page is assumed to be a static description of your courses.  -->
  
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" width="500" height="320" src="{{ '/assets/img/21.jpg' | relative_url }}" alt="" title=""/>
-    </div>
+<!-- <div class="row"> -->
+<div class="col-sm mt-3 mt-md-0">
+    <img class="img-fluid rounded z-depth-1" width="500" height="320" src="{{ '/assets/img/21.jpg' | relative_url }}" alt="" title=""/>
 </div>
+<!-- </div> -->
 <div class="caption">
     Caption photos easily
 </div>
