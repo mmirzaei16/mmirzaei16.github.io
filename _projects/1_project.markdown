@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <h3>Biomedical Robot</h3>
+title: Biomedical Robot
 description:
 img: /assets/img/andrew_1.JPG
 importance: 1
@@ -46,7 +46,7 @@ The shaped surface of the robot with help of my friend was designed by REVIT sof
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/andrew_2.JPG' | relative_url }}" alt="" title="example image"/>
     </div>
 </div> -->
-<div class="caption" style="font-size:12px;>
+<div class="caption" style="font-size:12px;">
    Robot without painting & polishing
 </div>
 <br>
@@ -116,7 +116,7 @@ The mainboard with an STM 32 microcontroller was designed to perform movements &
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/andrew_13.JPG' | relative_url }}" style="width:50%" />
     </div>
 </div>
- <br>                                                                                                                      
+                                                                                                                    
  <figcaption style="font-size:12px;">Final</figcaption>
 
 
