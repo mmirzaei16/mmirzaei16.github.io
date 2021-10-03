@@ -1,21 +1,26 @@
 ---
 layout: page
-title:<h3> ROV Robot </h3>
+title: ROV Robot 
 description: 
 img: /assets/img/rov_8.JPG
-importance: 4
+importance: 3
 category: .
 ---
 
-About
+<h3>About</h3>
+<br>
+<p align="justify">
 Remotely operated underwater vehicle robot which we developed in IRSE robotic team.
+<p align="justify">
 In our robot team, I was a project manager and head designer, my duties included project managing & designing essential sections of the robot such as propeller of thruster also performing some little works in control and electronics.
-
-It will be described in more detail below:
-
+</p>
+<br>
+<h4>It will be described in more detail below:</h4>
+<br>
+<p align="justify">
 The main body was developed with a waterproof feature because of the existence of the mainboard & camera by ORING and compressing air at least 5 bars.
-
-
+</p>
+<br>
 
 
 
