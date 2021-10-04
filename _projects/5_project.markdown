@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Another projects
+title: other projects
 description: 
 img: /assets/img/proj_pic.JPG
 importance: 8
@@ -92,7 +92,7 @@ RS485.
     </div>
 </div>
  <br>                                                                                                                  
- <figcaption style="font-size:12px;">Designing and analysis a aquarium pumps by solid works & ANSYS fluent</figcaption>
+ <figcaption style="font-size:12px;">Designing and analysis an aquarium pumps by solid works & ANSYS fluent</figcaption>
 
 <br>
 <br>
@@ -110,6 +110,6 @@ RS485.
     </div>
 </div>
  <br>          
- <figcaption style="font-size:12px;">my duties as head designer included designing robot and managing other members of IRSE team</figcaption>
+ <figcaption style="font-size:12px;">my duties as a head designer included designing robot and managing other members of IRSE team</figcaption>
 <br>
 <br>
