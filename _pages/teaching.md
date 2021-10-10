@@ -78,9 +78,6 @@ One of my hobbies is hiking and mountaineering
     <div class="col-sm-8 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/26.jpg' | relative_url }}" />
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/27.jpg' | relative_url }}" />
-    </div>
 </div>
 <div class="caption" style="font-size:10px;">
     SETAR playing
