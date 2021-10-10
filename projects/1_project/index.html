@@ -11,7 +11,7 @@
   Mohammad Mirzaei
 
 
-  | blog
+  | Biomedical Robot
 
 </title>
 <meta name="description" content="A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -37,7 +37,7 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22></text></svg>">
 
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/projects/1_project/">
 
 <!-- JQuery -->
 <!-- jQuery -->
@@ -158,18 +158,124 @@
     <div class="container mt-5">
       <div class="post">
 
-  <div class="header-bar">
-    <h1></h1>
-    <h2></h2>
-  </div>
+  <header class="post-header">
+    <h1 class="post-title">Biomedical Robot</h1>
+    <p class="post-description"></p>
+  </header>
+
+  <article>
+    <h3>About</h3>
+<p><br /></p>
+<p align="justify">
+A biomedical robot with a 4DOF arm and 2 DOF gripper could move the sampler (A device for laboratory sampling) and with a number recognition process could fill &amp; empty specific fluid volume of the sampler to performing medical laboratory tests.
+As a head designer, my responsibilities involved Designing &amp; manufacturing &amp; some control works.
+</p>
+
+<p>In the following, I’m going to describe some sections of my duties and expressing how this robot works.
+<br />
+<br /></p>
+<h3>Mechanical analysis &amp; design &amp; manufacturing</h3>
+<p><br />
+This robot consists of two major sections which will be described:</p>
+<h4>1) Base body</h4>
+<p align="justify">
+After approximately 3 primary designs we could reach our purpose, that’s looking at an alien’s object.
+The shaped surface of the robot with help of my friend was designed by REVIT software and then because of manufacturing and assembling, that’s thickened by Solid works software. The manufacturing process was 3D printing with polishing &amp; painting. 
+</p>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/andrew_2.JPG" width="200" height="350" />
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/andrew_3.JPG" width="200" height="350" />
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/andrew_4.JPG" width="200" height="350" />
+    </div> 
+</div>
+<!-- <div class="caption">
+    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+</div> -->
+<!-- <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/andrew_2.JPG" alt="" title="example image"/>
+    </div>
+</div> -->
+<div class="caption" style="font-size:12px;">
+   Robot without painting &amp; polishing
+</div>
+<p><br /></p>
+<h4>2) A 4 DOF Arm with 2 DOF Gripper</h4>
+<p align="justify">
+The arm consists of 3 revolute joints &amp; 1 prismatic joint , which revolute joints are operating with dynamixel motors with AL link structure, and the prismatic joint works with step motor with ball screw , wagon &amp; rail to obtain an strong accurate mechanism without vibration.
+</p>
+<p><br /></p>
+<figure>
+  <img src="/assets/img/andrew_5.JPG" alt="Trulli" style="width:35%" />
+</figure>
+
+<!-- <div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/andrew_5.JPG" alt="" title="example image"/>
+    </div> -->
+<p><br />
+<br />
+Several important simulations by ANSYS can also be seen.</p>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/andrew_6.JPG" width="200" height="125" />
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/andrew_7.JPG" width="200" height="125" />
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/andrew_8.JPG" width="200" height="125" />
+    </div> 
+</div>
+<p><br /></p>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/andrew_9.JPG" width="300" height="220" />
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/andrew_10.JPG" width="300" height="220" />
+    </div>
+</div>
+<div class="caption" style="font-size:12px;">
+FEM Analysis
+</div>
+<p><br /></p>
+<figure>
+  <img src="/assets/img/andrew_11.JPG" style="width:40%" />
+  <br />                                                       
+  <figcaption style="font-size:12px;">Gripper consists of two dynamixel motors and a PS3 camera to identify samples tube</figcaption>
+</figure>
+<p><br />
+<br />
+Another duty that I had done were extracting forward and inverse kinematic equations.</p>
+<p align="justify">
+The mainboard with an STM 32 microcontroller was designed to perform movements &amp; a UP board is considered for image processing and communication with an android application to set up a robot.
+</p>
+<p><br /></p>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/andrew_12.JPG" style="width:60%" />
+    </div>
+</div>
+<p><br />
+<br /></p>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/andrew_13.JPG" style="width:50%" />
+    </div>
+</div>
+
+<figcaption style="font-size:12px;">Final</figcaption>
 
 
-  <ul class="post-list">
-    
-  </ul>
-
-  
-
+  </article>
 
 </div>
 
